@@ -8,7 +8,7 @@ Just some quantum fun
 1. Clone  
 2. Navigate to root of repo
 3. install virtualenv (base python 3.6.6)  
-  "virtualenv --pyton=<Python exe path of python 3.6.6> .venv"  
+  "virtualenv --pyton="C:\Users\<USER>\AppData\Local\Programs\Python\Python36\python.exe" .venv"  
 4. Activate virtualenv  
   ".venv\Scripts\activate"
 5. Install all dependiencies  
