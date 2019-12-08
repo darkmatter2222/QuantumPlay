@@ -5,6 +5,9 @@ Just some quantum fun
 1. Python 3.6.6 (64bit) installed (https://www.python.org/downloads/release/python-366/)
 2. virtualenv already installed  
   "pip install virtualenv"
+3. IBM Quantum Experiance account (Free) (https://quantum-computing.ibm.com/)
+4. Qiskit token, can be found under your IBM Quantum Experiance account
+5. Qiskit token stored in a text document on your PC
 
 # Getting Started
 1. Clone  
