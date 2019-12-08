@@ -25,7 +25,7 @@ A qiskit starter pack for newbies.
 7. Start Jupyter Lab  
   ```Jupyter lab```
 
-# Where to Start?
+# Have All the Above Finished? Now go here...  
 Check this out first: FirstQuantumCircuit.ipynb  
 There after, check out: ExploringGates.ipynb (WIP)
 
