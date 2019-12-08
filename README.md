@@ -26,8 +26,8 @@ A qiskit starter pack for newbies.
   ```Jupyter lab```
 
 # Have All the Above Finished? Now go here...  
-Check this out first: FirstQuantumCircuit.ipynb  
-There after, check out: ExploringGates.ipynb (WIP)
+Check this out first: Notebooks\FirstQuantumCircuit.ipynb  
+There after, check out: Notebooks\ExploringGates.ipynb (WIP)
 
 # Need help?
 Great resource here: https://quantum-computing.ibm.com/jupyter/tutorial/1_start_here.ipynb
