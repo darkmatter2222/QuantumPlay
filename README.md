@@ -24,4 +24,6 @@ Just some quantum fun
 7. Start Jupyter Lab  
   ```Jupyter lab```
 
+# Help Me
+Great Resource here: https://quantum-computing.ibm.com/jupyter/tutorial/1_start_here.ipynb
 
