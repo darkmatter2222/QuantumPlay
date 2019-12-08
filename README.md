@@ -1,5 +1,5 @@
-# QuantumPlay
 A qiskit starter pack for newbies. 
+![](https://imgur.com/0y3rWip.png)
 
 # Prereqs
 1. Python 3.6.6 (64bit) installed (https://www.python.org/downloads/release/python-366/)
