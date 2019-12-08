@@ -26,5 +26,5 @@ Just some quantum fun
   ```Jupyter lab```
 
 # Help Me
-Great Resource here: https://quantum-computing.ibm.com/jupyter/tutorial/1_start_here.ipynb
+Great resource here: https://quantum-computing.ibm.com/jupyter/tutorial/1_start_here.ipynb
 
