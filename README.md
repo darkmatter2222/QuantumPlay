@@ -1,5 +1,5 @@
 # QuantumPlay
-Just some quantum fun
+A qiskit starter pack for newbies. 
 
 # Prereqs
 1. Python 3.6.6 (64bit) installed (https://www.python.org/downloads/release/python-366/)
@@ -25,6 +25,6 @@ Just some quantum fun
 7. Start Jupyter Lab  
   ```Jupyter lab```
 
-# Help Me
-Great Resource here: https://quantum-computing.ibm.com/jupyter/tutorial/1_start_here.ipynb
+# Need help?
+Great resource here: https://quantum-computing.ibm.com/jupyter/tutorial/1_start_here.ipynb
 
