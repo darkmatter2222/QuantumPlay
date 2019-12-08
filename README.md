@@ -25,6 +25,6 @@ A qiskit starter pack for newbies.
 7. Start Jupyter Lab  
   ```Jupyter lab```
 
-# Help Me
+# Need help?
 Great resource here: https://quantum-computing.ibm.com/jupyter/tutorial/1_start_here.ipynb
 
