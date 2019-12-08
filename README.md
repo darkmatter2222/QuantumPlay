@@ -8,6 +8,7 @@ Just some quantum fun
 3. IBM Quantum Experiance account (Free) (https://quantum-computing.ibm.com/)
 4. Qiskit token, can be found under your IBM Quantum Experiance account
 5. Qiskit token stored in a text document on your PC
+6. According to https://qiskit.org/documentation/install.html, you may need VS 2015 and 2017 C++ redistributables 
 
 # Getting Started
 1. Clone  
