@@ -5,7 +5,7 @@ Just some quantum fun
 1. Python 3.6.6 (64bit) installed (https://www.python.org/downloads/release/python-366/)
 
 # Getting Started
-1. clone  
+1. Clone  
 2. Navigate to root of repo
 3. install virtualenv (base python 3.6.6)  
   "virtualenv --pyton=<Python exe path of python 3.6.6> .venv"  
