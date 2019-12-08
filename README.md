@@ -11,7 +11,7 @@ A qiskit starter pack for newbies.
   '''C:\Tokens\Qiskit\IBMQ.txt'''
 6. According to https://qiskit.org/documentation/install.html, you may need VS 2015 and 2017 C++ redistributables 
 
-# Getting Started
+# Getting Started (Using Jupyter)
 1. Clone  
 2. Navigate to root of repo
 3. install virtualenv (base python 3.6.6)  
