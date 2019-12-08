@@ -3,6 +3,8 @@ Just some quantum fun
 
 # Prereqs
 1. Python 3.6.6 (64bit) installed (https://www.python.org/downloads/release/python-366/)
+2. virtualenv already installed  
+  "pip install virtualenv"
 
 # Getting Started
 1. Clone  
