@@ -46,7 +46,7 @@ nbformat==4.4.0
 ndg-httpsclient==0.5.1
 nest-asyncio==1.0.0
 networkx==2.4
-notebook==6.4.1
+notebook==6.4.12
 ntlm-auth==1.4.0
 numpy==1.22.0
 pandas==0.25.3
